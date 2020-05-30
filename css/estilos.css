@@ -368,14 +368,14 @@ figure {
   background-size: 50px 50px;
 }
 
-.social-link.twitter {
-  background-image: url('../images/whatsapp10.jpg');
+.social-link.github {
+  background-image: url('../images/github.svg');
 }
 .social-link.facebook {
   background-image: url('../images/facebook.svg');
 }
 .social-link.whatsapp {
-  background-image: url('../images/whatsapp3.jpg');
+  background-image: url('../images/w3.png');
 }
 .social-link.instagram {
   background-image: url('../images/instagram.svg');
